@@ -1,53 +1,71 @@
 <!-- Typing animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7A41D&center=true&vCenter=true&width=500&lines=Frontend+Developer;Passionate+about+UI%2FUX+Design;Building+Scalable+and+Efficient+Web+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7A41D&center=true&vCenter=true&width=500&lines=Frontend+Developer;Full-Stack+.NET+Developer;Passionate+about+UI%2FUX+Design;Building+Scalable+and+Efficient+Web+Apps" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="http://betasociall.com"><img width="32px" alt="Website" title="Website" src="https://i.imgur.com/JU4wMxu.png"/></a>
+  <a href="https://rabeashaban.site"><img width="32px" alt="Website" title="Website" src="https://i.imgur.com/JU4wMxu.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:r.shaban.2016@gmail.com"><img width="32px" alt="Email" title="Email" src="https://i.imgur.com/KQ2GSs4.png"/></a>
+  <a href="mailto:engrabeashaban@gmail.com"><img width="32px" alt="Email" title="Email" src="https://i.imgur.com/KQ2GSs4.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/3YU1CER.png"/></a>
+  <a href="https://www.linkedin.com/in/rabea-sh-elzayat"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/YpHh5Dx.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="32px" alt="YouTube" title="YouTube" src="https://i.imgur.com/lJdUxn6.png"/></a>
+  <a href="https://www.upwork.com/freelancers/~01d2bd68b7d6e8fbce"><img width="32px" alt="Upwork" title="Upwork" src="https://i.imgur.com/rPzJjA3.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://mostaql.com/u/rabea_elzayat"><img width="32px" alt="Mostaql" title="Mostaql" src="https://i.imgur.com/8rkAYQ3.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://wa.me/201156807072"><img width="32px" alt="WhatsApp" title="WhatsApp" src="https://i.imgur.com/TuDSi2V.png"/></a>
 </p>
 
 ---
 
-# 🚀 Rabea Shaban - Frontend Developer
+# 🚀 Rabea Shaban - Frontend & .NET Developer
 
-I am a passionate **Frontend Developer** dedicated to crafting modern, responsive, and user-friendly web applications. My expertise lies in building seamless UI/UX experiences using the latest web technologies.
+I am a passionate **Frontend & .NET Developer** specializing in building **scalable, maintainable, and user-friendly web applications**. With a deep understanding of **React.js, .NET Core, and modern UI/UX principles**, I aim to create seamless digital experiences.
 
-With a solid foundation in **JavaScript, TypeScript, React, and Redux**, I specialize in developing scalable applications with clean and maintainable code. I am always eager to explore new tools and technologies to enhance my development workflow.
+I have worked on multiple **client projects in Saudi Arabia** and built various **custom solutions for businesses**. My expertise includes **React.js, .NET Core, WordPress, Tailwind CSS, and database optimization**.
 
-### 🏆 Key Strengths:
-✔ **Responsive Design**: Ensuring seamless experiences across all devices.  
-✔ **Performance Optimization**: Writing efficient code for faster load times.  
-✔ **Reusable Components**: Building modular and scalable UI elements.  
-✔ **State Management**: Handling complex app states using Redux and Context API.  
-✔ **Clean Code**: Following best practices for maintainability and scalability.  
+### 🏆 **Key Strengths:**
+✔ **Frontend Development**: React.js, TypeScript, Tailwind CSS, Bootstrap  
+✔ **Backend Development**: .NET Core, SQL Server, Entity Framework  
+✔ **State Management**: Redux, Context API  
+✔ **Performance Optimization**: Writing clean and efficient code  
+✔ **Responsive Design**: Ensuring smooth UI across all devices  
+✔ **API Integration**: RESTful APIs, GraphQL  
+✔ **Freelancing & Client Work**: Experience in handling international projects  
 
 ---
 
-# 🎨 Tech Stack  
+# 🎨 **Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,redux,tailwind,bootstrap,vite,webpack,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,redux,bootstrap,tailwind,vite,webpack,git,github,dotnet,mysql,postgres,azure,vscode,figma" />
 </p>
 
 ---
 
-# 📈 Let's Connect
+# 💼 **Work Experience**
+### **Founder of BetaSociall**
+🚀 **[BetaSociall](http://betasociall.com)** - Providing web solutions for businesses  
+📍 **Clients in Saudi Arabia**: Murjan Al Hadayiq, Sabak Riyadh, Lazatco, Hedayati  
 
-- 🌐 **Portfolio**: [betasociall.com](http://betasociall.com)  
-- 📧 **Email**: [r.shaban.2016@gmail.com](mailto:r.shaban.2016@gmail.com)  
-- 📱 **Phone**: [+2 01156807072](tel:+201156807072)  
-- 💬 **Twitter**: [Coming Soon](#)  
-- 🎥 **YouTube**: [Coming Soon](#)  
+👨‍💻 **Freelancing Platforms:**  
+🔹 [Upwork](https://www.upwork.com/freelancers/~01d2bd68b7d6e8fbce)  
+🔹 [Mostaql](https://mostaql.com/u/rabea_elzayat)  
+🔹 [Nafezly](https://nafezly.com/u/Rabea_sh_elzayat)  
 
 ---
 
-🔥 *Passionate about frontend development, always learning, always building!*  
+# 📈 **Let's Connect**
+📍 **Portfolio**: [rabeashaban.site](https://rabeashaban.site/)  
+📧 **Email**: [engrabeashaban@gmail.com](mailto:engrabeashaban@gmail.com)  
+📱 **Phone**: [+2 01156807072](tel:+201156807072)  
+💼 **LinkedIn**: [linkedin.com/in/rabea-sh-elzayat](https://www.linkedin.com/in/rabea-sh-elzayat)  
+🛠 **GitHub**: [github.com/Rabea-shaban](https://github.com/Rabea-shaban)  
+💬 **WhatsApp**: [Chat Now](https://wa.me/201156807072)  
+
+---
+
+🔥 *Passionate about web development, always learning, always building!*  
