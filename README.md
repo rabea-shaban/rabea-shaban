@@ -57,7 +57,8 @@ With a deep understanding of **React.js, Tailwind CSS, and performance optimizat
 📍 **Clients in Saudi Arabia** – Murjan Al Hadayiq, Sabak Riyadh, Lazatco, Hedayati  
 
 ### 🌟 **Notable Projects**
-📌 **[🚀 Personal Portfolio Project](https://task-oen-upskilling.vercel.app/)**  
+📌 **[🚀 Personal Portfolio ](https://rabeashaban.site/)**  
+📌 **[🚀 Task Portfolio Project](https://task-oen-upskilling.vercel.app/)**  
 📌 **[📚 React-Based Programming Library](https://programminglibrary.vercel.app/)**  
 📌 **[🔔 React Alerts System](https://alert-react-tsx.vercel.app/)**  
 📌 **[🏠 Furniture & Shipment Services Website](https://company-365.netlify.app/)**  
