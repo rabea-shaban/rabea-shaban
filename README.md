@@ -1,7 +1,7 @@
 <!-- Typing animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7A41D&center=true&vCenter=true&width=500&lines=Frontend+Developer;Full-Stack+.NET+Developer;Passionate+about+UI%2FUX+Design;Building+Scalable+and+Efficient+Web+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7A41D&center=true&vCenter=true&width=500&lines=Creative+Frontend+Developer;Passionate+about+UI%2FUX+Design;Crafting+Seamless+User+Experiences;Building+Scalable+Web+Apps" alt="Typing SVG" />
   </a>
 </p>
 
@@ -22,43 +22,49 @@
 
 ---
 
-# 🚀 Rabea Shaban - Frontend & .NET Developer
+# 🚀 Rabea Shaban - Frontend Developer
 
-I am a passionate **Frontend & .NET Developer** specializing in building **scalable, maintainable, and user-friendly web applications**. With a deep understanding of **React.js, .NET Core, and modern UI/UX principles**, I aim to create seamless digital experiences.
+I am a **creative and detail-oriented Frontend Developer** with a passion for crafting modern, responsive, and engaging web applications.  
+I specialize in turning ideas into **pixel-perfect, high-performance** web experiences using the latest frontend technologies.  
 
-I have worked on multiple **client projects in Saudi Arabia** and built various **custom solutions for businesses**. My expertise includes **React.js, .NET Core, WordPress, Tailwind CSS, and database optimization**.
-
-### 🏆 **Key Strengths:**
-✔ **Frontend Development**: React.js, TypeScript, Tailwind CSS, Bootstrap  
-✔ **Backend Development**: .NET Core, SQL Server, Entity Framework  
-✔ **State Management**: Redux, Context API  
-✔ **Performance Optimization**: Writing clean and efficient code  
-✔ **Responsive Design**: Ensuring smooth UI across all devices  
-✔ **API Integration**: RESTful APIs, GraphQL  
-✔ **Freelancing & Client Work**: Experience in handling international projects  
+💡 **Bringing Designs to Life!**  
+I transform UI/UX designs into interactive, user-friendly websites that **not only look great but also feel amazing** to use.  
+With a deep understanding of **React.js, Tailwind CSS, and performance optimization**, I create seamless web solutions that are **fast, scalable, and accessible**.
 
 ---
 
-# 🎨 **Tech Stack**
+## ✨ **What I Do Best**
+✔ **Responsive Web Design** – Making sure websites look perfect on all screens  
+✔ **High-Performance Web Apps** – Writing optimized, clean, and maintainable code  
+✔ **UI/UX Implementation** – Transforming designs into smooth, interactive experiences  
+✔ **Component-Based Architecture** – Building reusable, scalable UI elements  
+✔ **State Management** – Using React Context API & Redux for seamless app flows  
+✔ **Dark Mode & Theming** – Enhancing user experiences with modern UI techniques  
+✔ **SEO & Accessibility** – Ensuring websites are discoverable and user-friendly  
+
+---
+
+## 🎨 **Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,redux,bootstrap,tailwind,vite,webpack,git,github,dotnet,mysql,postgres,azure,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,redux,tailwind,bootstrap,vite,webpack,git,github,figma,xd" />
 </p>
 
 ---
 
-# 💼 **Work Experience**
-### **Founder of BetaSociall**
-🚀 **[BetaSociall](http://betasociall.com)** - Providing web solutions for businesses  
-📍 **Clients in Saudi Arabia**: Murjan Al Hadayiq, Sabak Riyadh, Lazatco, Hedayati  
+## 🏆 **Projects & Work Experience**
+### 🔹 **Founder of BetaSociall**
+🚀 **[BetaSociall](http://betasociall.com)** – Providing top-tier web solutions for businesses  
+📍 **Clients in Saudi Arabia** – Murjan Al Hadayiq, Sabak Riyadh, Lazatco, Hedayati  
 
-👨‍💻 **Freelancing Platforms:**  
-🔹 [Upwork](https://www.upwork.com/freelancers/~01d2bd68b7d6e8fbce)  
-🔹 [Mostaql](https://mostaql.com/u/rabea_elzayat)  
-🔹 [Nafezly](https://nafezly.com/u/Rabea_sh_elzayat)  
+### 🌟 **Notable Projects**
+📌 **[🚀 Personal Portfolio Project](https://task-oen-upskilling.vercel.app/)**  
+📌 **[📚 React-Based Programming Library](https://programminglibrary.vercel.app/)**  
+📌 **[🔔 React Alerts System](https://alert-react-tsx.vercel.app/)**  
+📌 **[🏠 Furniture & Shipment Services Website](https://company-365.netlify.app/)**  
 
 ---
 
-# 📈 **Let's Connect**
+## 📈 **Let's Connect**
 📍 **Portfolio**: [rabeashaban.site](https://rabeashaban.site/)  
 📧 **Email**: [engrabeashaban@gmail.com](mailto:engrabeashaban@gmail.com)  
 📱 **Phone**: [+2 01156807072](tel:+201156807072)  
@@ -68,4 +74,4 @@ I have worked on multiple **client projects in Saudi Arabia** and built various 
 
 ---
 
-🔥 *Passionate about web development, always learning, always building!*  
+🔥 *Passionate about frontend development, always learning, always building!*  
