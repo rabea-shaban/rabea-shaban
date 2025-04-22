@@ -1,6 +1,5 @@
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&pause=1000&color=F7D23F&width=435&lines=Front+End+Professional;Eng+Rabea+Shaaban;%F0%9F%9A%80+Rabea+Shaban+-+Frontend+Developer;%E2%9A%9B+Specializing+in+React%2C+TypeScript+%26+Tailwind+CSS;Crafting+modern+%26+responsive+UIs+with+React)](https://git.io/typing-svg)
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&pause=1000&color=F7D23F&width=435&lines=Front+End+Professional;Eng+Rabea+Shaaban;%F0%9F%9A%80+Rabea+Shaban+-+Frontend+Developer;%E2%9A%9B+Specializing+in+React%2C+TypeScript+%26+Tailwind+CSS;Crafting+modern+%26+responsive+UIs+with+React" alt="Typing SVG" /></a>
 <!-- Social icons section -->
 <p align="center">
   <a href="https://rabeashaban.site"><img width="32px" alt="Website" title="Website" src="https://i.imgur.com/JU4wMxu.png"/></a>
