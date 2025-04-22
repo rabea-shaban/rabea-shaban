@@ -1,5 +1,5 @@
 <div style="width: 100%; display: flex; justify-content: center;">
-  <a href="https://git.io/typing-svg" style="width: 100%;">
+  <a href="https://github.com/rabea-shaban" style="width: 100%;">
     <img
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&pause=1000&color=F7D23F&width=1000&height=100&lines=Front+End+Professional;Eng+Rabea+Shaaban;%F0%9F%9A%80+Rabea+Shaban+-+Frontend+Developer;%E2%9A%9B+Specializing+in+React%2C+TypeScript+%26+Tailwind+CSS;Crafting+modern+%26+responsive+UIs+with+React"
       alt="Typing SVG"
