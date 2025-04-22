@@ -1,4 +1,12 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&pause=1000&color=F7D23F&width=950&height=100&lines=Front+End+Professional;Eng+Rabea+Shaaban;%F0%9F%9A%80+Rabea+Shaban+-+Frontend+Developer;%E2%9A%9B+Specializing+in+React%2C+TypeScript+%26+Tailwind+CSS;Crafting+modern+%26+responsive+UIs+with+React" alt="Typing SVG" /></a>
+<div style="width: 100%; display: flex; justify-content: center;">
+  <a href="https://git.io/typing-svg" style="width: 100%;">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&pause=1000&color=F7D23F&width=1000&height=100&lines=Front+End+Professional;Eng+Rabea+Shaaban;%F0%9F%9A%80+Rabea+Shaban+-+Frontend+Developer;%E2%9A%9B+Specializing+in+React%2C+TypeScript+%26+Tailwind+CSS;Crafting+modern+%26+responsive+UIs+with+React"
+      alt="Typing SVG"
+      style="width: 100%; max-width: 100%; height: auto;"
+    />
+  </a>
+</div>
 
 <!-- Social icons section -->
 <p align="center">
