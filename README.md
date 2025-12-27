@@ -47,26 +47,9 @@ Transforming UI/UX into beautiful, performant web experiences using **React.js**
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img 
-    src="https://skillicons.dev/icons?i=
-    html,css,sass,js,ts,
-    react,nextjs,redux,
-    tailwind,bootstrap,materialui,
-    vite,webpack,
-    nodejs,
-    mysql,postgres,
-    firebase,supabase,
-    git,github,
-    figma,xd,
-    c,cs,cpp,dotnet,
-    aws,
-    postman,
-    vercel,
-    vscode,
-    wordpress,
-    yarn,pnpm"
-  />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=light" />
 </p>
+
 
 ---
 
