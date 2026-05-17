@@ -1,111 +1,329 @@
-<p align="center">
-  <a href="https://github.com/rabea-shaban">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&pause=1000&color=F7D23F&width=1000&height=100&lines=Front+End+Professional;Eng+Rabea+Shaaban;%F0%9F%9A%80+Rabea+Shaban+-+Frontend+Developer;%E2%9A%9B+Specializing+in+React%2C+TypeScript+%26+Tailwind+CSS;Crafting+modern+%26+responsive+UIs+with+React"
-      alt="Typing SVG"
-    />
-  </a>
+<div align="center">
+
+# 👋 Hi, I'm Rabea Shaban
+
+### MERN Stack Developer | Frontend Engineer | React • Next.js • TypeScript
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2500&pause=800&color=F8912E&center=true&vCenter=true&width=435&lines=Frontend+Engineer;React.js+%7C+Next.js+%7C+TypeScript;MERN+Stack+Developer;Node.js+%E2%80%A2+Express.js+%E2%80%A2+MongoDB)](https://git.io/typing-svg)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-rabea--shaban.com-0ea5e9?style=for-the-badge)](https://rabea-shaban.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rabea%20Shaban-0A66C2?style=for-the-badge)](https://linkedin.com/in/rabea-sh-elzayat)
+
+[![GitHub](https://img.shields.io/badge/GitHub-rabea--shaban-181717?style=for-the-badge)](https://github.com/rabea-shaban)
+
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge)](mailto:rabea.elzayate@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=rabea-shaban&label=Profile+Views&color=0e75b6&style=flat" />
+
+</div>
+
+---
+
+# 🚀 About Me
+
+I'm a passionate **MERN Stack Developer & Frontend Engineer** with hands-on experience building scalable, responsive, and high-performance web applications.
+
+I specialize in creating modern user interfaces and full-stack solutions using technologies like:
+
+- React.js
+- Next.js
+- TypeScript
+- Node.js
+- Express.js
+- MongoDB
+
+I enjoy turning ideas into real products and building systems focused on:
+
+✨ Performance  
+✨ Scalability  
+✨ User Experience  
+✨ Clean Architecture  
+
+I’m continuously learning and currently expanding my backend, cloud, and system design expertise.
+
+---
+
+# 🎓 Education
+
+### Higher Institute of Technology, Management & Information — Minya
+
+Bachelor Degree in Management Information Systems
+
+🎓 Grade: Excellent
+
+🏆 Graduation Project:
+
+Crime Prediction System using React + Firebase
+
+---
+
+# 📚 Learning Journey
+
+### AI-Based Software Development Diploma — Digilians
+
+Currently studying:
+
+✔ MERN Stack
+
+✔ ASP.NET
+
+✔ AWS Practitioner
+
+✔ AWS Developer
+
+✔ DevOps Fundamentals
+
+✔ Real-world Capstone Projects
+
+---
+
+# 🏆 Certifications
+
+✔ Meta Front-End Developer Professional Certificate
+
+✔ Pro Frontend Engineer — React + TypeScript + Redux
+
+✔ Advanced Front-End Engineering Program
+
+✔ ITI Frontend Internship
+
+✔ MaharaTech HTML & CSS
+
+---
+
+# 💼 Experience
+
+## Founder & Frontend Lead — Beta Social
+
+Building digital products and software solutions across Egypt & Saudi Arabia.
+
+Worked on:
+
+- Business Platforms
+- Internal Dashboards
+- Service Systems
+- Company Websites
+- Marketing Solutions
+
+---
+
+## Frontend Developer Intern — WEB MASTER
+
+Worked on production-level applications and scalable UI systems.
+
+Achievements:
+
+✔ Developed reusable React components
+
+✔ Improved performance and responsiveness
+
+✔ Collaborated with cross-functional teams
+
+✔ Applied clean architecture principles
+
+---
+
+## Digital Egypt Pioneers Initiative (MCIT)
+
+.NET Full Stack Developer
+
+Worked on real-world projects and business solutions.
+
+Graduation Project:
+
+AGRSUP
+
+Agricultural E-commerce Platform featuring:
+
+- Admin Dashboard
+- User Roles
+- Stripe Integration
+- Full-stack Architecture
+
+---
+
+# 🔥 Core Expertise
+
+```javascript
+const Rabea = {
+  frontend: [
+    "React.js",
+    "Next.js",
+    "TypeScript",
+    "Tailwind CSS",
+    "Redux Toolkit",
+    "Material UI"
+  ],
+
+  backend:[
+    "Node.js",
+    "Express.js",
+    "REST APIs",
+    "MVC Architecture"
+  ],
+
+  database:[
+    "MongoDB",
+    "Mongoose",
+    "SQL"
+  ],
+
+  auth:[
+    "JWT",
+    "OAuth",
+    "Role Based Access"
+  ],
+
+  tools:[
+    "Git",
+    "GitHub",
+    "Postman",
+    "AWS",
+    "Vercel"
+  ]
+}
+```
+
+---
+
+# ⚡ Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,redux,tailwind,materialui,vite" />
 </p>
 
-<p align="center">
-  <a href="https://rabeashaban.site"><img width="32px" alt="Website" title="Website" src="https://i.imgur.com/JU4wMxu.png"/></a>
-  &#8287;
-  <a href="mailto:engrabeashaban@gmail.com"><img width="32px" alt="Email" title="Email" src="https://i.imgur.com/KQ2GSs4.png"/></a>
-  &#8287;
-  <a href="https://www.linkedin.com/in/rabea-sh-elzayat"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/YpHh5Dx.png"/></a>
-  &#8287;
-  <a href="https://www.upwork.com/freelancers/~01d2bd68b7d6e8fbce"><img width="32px" alt="Upwork" title="Upwork" src="https://i.imgur.com/rPzJjA3.png"/></a>
-  &#8287;
-  <a href="https://mostaql.com/u/rabea_elzayat"><img width="32px" alt="Mostaql" title="Mostaql" src="https://i.imgur.com/8rkAYQ3.png"/></a>
-  &#8287;
-  <a href="https://wa.me/201156807072"><img width="32px" alt="WhatsApp" title="WhatsApp" src="https://i.imgur.com/TuDSi2V.png"/></a>
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,dotnet" />
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,aws,vscode,figma" />
 </p>
 
 ---
 
-## 🚀 Rabea Shaban — Frontend Developer
+# 🌟 Featured Projects
 
-👨‍💻 **Professional Profile**
+## 🔹 MERN E-Commerce Platform
 
-I am a **results-driven Frontend Developer** with a strong passion for building **modern, high-quality, and user-focused web applications**. I specialize in delivering **scalable, responsive, and visually polished interfaces** that enhance user experience and support real business goals.
+Scalable full-stack e-commerce application featuring:
 
-With hands-on experience in **React.js, Next.js, TypeScript, and modern frontend frameworks**, I transform product ideas and UI/UX designs into **pixel-perfect, production-ready solutions**. I focus on **performance, accessibility, and maintainability** to ensure long-term success for both users and businesses.
+- JWT Authentication
+- Role-Based Authorization
+- Redux Toolkit
+- Protected Routes
+- Cart & Wishlist
+- Multer Image Upload
+- Checkout Flow
 
-I bring a strong sense of ownership to every project I work on. I write **clean, reusable code**, follow best practices, and collaborate effectively with designers, backend engineers, and stakeholders to deliver **high-impact features on time**. My approach combines **technical excellence** with a deep understanding of user needs, resulting in interfaces that are both intuitive and efficient.
+Tech:
 
----
-
-## 🚀 What I Bring to the Team
-
-- Build **responsive and cross-browser web applications** using modern frontend technologies  
-- Translate **UI/UX designs** into high-performance, scalable interfaces  
-- Optimize applications for **speed, usability, and accessibility**  
-- Collaborate effectively in **agile teams** with both technical and non-technical stakeholders  
-- Continuously improve code quality through **best practices and modern architectures**
-
----
-## 🌟 Mindset & Values
-
-I am **highly motivated, adaptable, and always eager to learn**. I thrive in environments that value **quality, innovation, and teamwork**, and I consistently aim to deliver frontend solutions that create **measurable impact** and elevate the overall product experience.
+React • TypeScript • Node.js • Express • MongoDB
 
 ---
 
-## ✨ What I Do Best
-- ✔ **Responsive Web Design** – Perfect across all screens  
-- ✔ **Clean Code** – Optimized and maintainable  
-- ✔ **UI/UX to Code** – Flawless implementation  
-- ✔ **Component Architecture** – Scalable and reusable  
-- ✔ **State Management** – Context API & Redux  
-- ✔ **Modern Theming** – Dark Mode, Animations  
-- ✔ **SEO & Accessibility** – Optimized for all users  
+## 🔹 Emergency Department Management System
+
+Real-time healthcare dashboard:
+
+✔ Authentication
+
+✔ CRUD Operations
+
+✔ Analytics Charts
+
+✔ Supabase Integration
+
+✔ Real-time Updates
+
+Tech:
+
+React • Tailwind • Supabase
 
 ---
 
-## 🛠 Tech Stack
+## 🔹 Sabbak Al Riyadh
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,redux,tailwind,bootstrap,materialui,vite,webpack,git,github,figma,xd,c,cs,cpp,dotnet,aws,firebase,mysql,postgres,nodejs,pnpm,yarn,postman,supabase,vercel,vscode,wordpress" />
-</p>
+SEO-focused business platform:
 
+✔ React + Vite
 
+✔ Framer Motion
 
----
+✔ Conversion Optimization
 
-## 💼 Projects & Experience
+✔ Mobile-first Design
 
-### 🔹 Founder of [BetaSociall](https://betasociall.com)
-Helping businesses with modern digital solutions.
-
-**Clients in KSA:**
-- 🌴 Murjan Al Hadayiq
-- 🔧 Sabak Riyadh
-- 🍴 Lazatco
-- 🎁 Hedayati
+✔ WhatsApp Integration
 
 ---
 
-## 🌟 Featured Projects
+## 🔹 Programming Library
 
-- 🎯 [Personal Portfolio](https://rabeashaban.site)  
-- 📋 [Task Portfolio](https://task-oen-upskilling.vercel.app/)  
-- 📚 [Programming Library](https://programminglibrary.vercel.app/)  
-- 🔔 [React Alerts System](https://alert-react-tsx.vercel.app/)  
-- 🛋 [Furniture & Shipment Services](https://company-365.netlify.app/)  
-- 🚗 [Car Rental App](https://car-rental-eosin-ten.vercel.app/)  
-- 🧑‍💻 [User Management System](https://ums-gamma.vercel.app/)  
-- 🛍 [Latest Products CRUD App](https://github.com/rabea-shaban/latest-products)
+Educational platform for programming resources.
+
+https://programminglibrary.vercel.app/
 
 ---
 
-## 📩 Let's Connect!
+## 🔹 Portfolio Website
 
-📍 **Portfolio**: [rabea-shaban.com](https://rabea-shaban.com)  
-📧 **Email**: [engrabeashaban@gmail.com](mailto:engrabeashaban@gmail.com)  
-📱 **Phone**: [+2 01156807072](tel:+201156807072)  
-💼 **LinkedIn**: [linkedin.com/in/rabea-sh-elzayat](https://www.linkedin.com/in/rabea-sh-elzayat)  
-🛠 **GitHub**: [github.com/rabea-shaban](https://github.com/rabea-shaban)  
-💬 **WhatsApp**: [Chat Now](https://wa.me/201156807072)
+https://rabea-shaban.com
 
 ---
 
-🔥 *Passionate about frontend development, always learning, always building!*
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rabea-shaban&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=rabea-shaban&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabea-shaban&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🌍 Current Goal
+
+Building scalable systems and growing into a highly skilled Full Stack Engineer focused on architecture, cloud technologies, and modern product development.
+
+---
+
+# 📬 Connect With Me
+
+📍 Cairo, Egypt — Open To Relocation
+
+🌐 Portfolio:
+https://rabea-shaban.com
+
+📧 Email:
+rabea.elzayate@gmail.com
+
+💼 LinkedIn:
+https://linkedin.com/in/rabea-sh-elzayat
+
+🛠 GitHub:
+https://github.com/rabea-shaban
+
+📱 Phone:
++20 1156807072
+
+---
+
+<div align="center">
+
+### Building products with clean code & meaningful experiences 🚀
+
+</div>
